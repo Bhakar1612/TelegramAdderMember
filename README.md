@@ -17,7 +17,6 @@ This tool is to scrape members from targeted groups and to add them into your ow
 10. The tool is auto-updating, you're always on the latest version!
 11. Easy to install and to use!
 12. More features will be added soon!
-13. And most importantly: IT'S FREE!
 
 ## TUTORIAL
 
@@ -31,18 +30,3 @@ This tool is to scrape members from targeted groups and to add them into your ow
 5. You are ready to GO! Open cmd and type:
 
 > python main.pyc
-
-6. Make sure to watch the tutorial video: https://www.youtube.com/watch?v=MIge995RqEQ
-
-
-Follow us on Telegram: https://t.me/TGToolsFree For bug-reports, help or wishes for future features, feel free to contact us on Telegram: https://t.me/SubAdder
-
-### ❤️ Feel free to support us with donations so we can continue this project with our amazing community ❤️
-
-1. BTC: bc1qy9sq9m86cr8r6jg8qrpk7czknxdt4nvn06xzrr
-2. ETH: 0x348AEAF446ee38fA168045f897206381831c5a9B
-3. DOGE: D5vrWmxSqctx4LzX8Q5ApAqFM5MuxbXPUq
-4. USDT-TRC20: TDXQ2WE2rZoiqksBUvQMnVvSvear8v8aom
-
-#### Please ⭐ the repo to support our project
-![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3937353033363838333935383633363535372f3937353035373130323039373734333937332f756e6b6e6f776e2e706e67](https://github.com/SM-Tools/-Telegram-Adder-Scraper-Members-NEW-FREE-2024/assets/157315721/fce54b7e-3b81-46bf-bcf2-2d3c93c3785f)
